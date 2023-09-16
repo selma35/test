@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.photos img{
+    width: 200px;
+    height: 200px;
+    border: 4px solid #8c8b8b;
+}
+.photos img:hover{
+    
+    border: 4px solid #1d1c1c;
+}
+
+.main img{
+    width: 400px;
+    height: 300px;
+    border: 4px solid #8c8b8b;
+}
